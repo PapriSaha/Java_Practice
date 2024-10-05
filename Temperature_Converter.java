@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-class Test {
+class TemperatureConverter {
 
     public static void main(String[] args) {
         try (Scanner scan = new Scanner(System.in)) {
